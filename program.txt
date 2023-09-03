@@ -1,0 +1,8 @@
+ADDI $t0,$zero,10
+ADDI $t1,$zero,9
+ADD $t2,$t0,$t1
+SUB $t3,$t0,$t1
+store $t3,0($t2)
+ADDI $t6,$zero,8
+store $t0,0($t6)
+load $t4,0($t6)
