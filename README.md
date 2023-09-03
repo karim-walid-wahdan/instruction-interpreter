@@ -1,6 +1,6 @@
 # RISC Architecture Interpreter
 
-This repository contains a basic implementation of a RISC (Reduced Instruction Set Computer) Architecture interpreter. The purpose of this project is to provide a simple but effective means of executing basic instruction sets for educational and learning purposes. It aims to provide a better understanding of RISC operations.
+This repository contains a basic implementation of a RISC (Reduced Instruction Set Computer) Architecture interpreter as part of the Computer Architecture course at the German International University in Berlin under the supervision of Dr. Hassan Soubra. The purpose of this project is to provide a simple but effective means of executing basic instruction sets for educational and learning purposes. It aims to provide a better understanding of RISC operations.
 
 ## Table of Contents
 
